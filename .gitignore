@@ -29,7 +29,7 @@ build/
 Thumbs.db
 
 # Git specific files
-.git/
+
 
 # Coverage reports
 coverage/
